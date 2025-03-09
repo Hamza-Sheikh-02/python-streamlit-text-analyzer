@@ -52,7 +52,7 @@ if submitted:
 
         # Check for the presence of "Python"
         st.metric("Contains 'Python'?",
-                  "✅ Yes" if "Python" in paragraph else "❌ No")
+                  "✅ Yes" if "Python".lower() in paragraph else "❌ No")
 
         # Search and Replace
         if search_word:
