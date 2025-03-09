@@ -1,4 +1,4 @@
-# Paragraph Analyzer
+# 📜 Paragraph Analyzer
 
 Paragraph Analyzer is a lightweight web application built with [Streamlit](https://streamlit.io/). It helps you quickly analyze a paragraph by calculating word and character counts, counting vowels, and offering search-and-replace functionality. You can also see the text converted into uppercase or lowercase and check for specific keywords.
 
